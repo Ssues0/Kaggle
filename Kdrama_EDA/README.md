@@ -15,3 +15,4 @@ K-Drama의 장르, 방영 일자, 평점 등의 데이터를 분석하여, 드�
 - **언어**: Python
 - **데이터 처리 및 분석**: Pandas, NumPy
 - **데이터 시각화**: Matplotlib, Seaborn
+- **개발 및 실행 환경**: Google Colab
